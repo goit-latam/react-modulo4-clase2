@@ -1,14 +1,14 @@
 # TODO
 
-- Спроектировать структуру приложения (компоненты, состояние, пропсы)
-- Вынести выбор породы в компонент BreedSelect
+- Diseñar la estructura de la aplicación (componentes, estado, accesorios)
+- Mover selección de raza al componente BreedSelect
 - https://react-select.com
-- Сделать запрос за списком пород
-- При выборе породы в списке, выполнять запрос за инфой о собаке
-- Добавить индикатор загрузки
+- Hacer una solicitud de una lista de razas
+- Al elegir una raza en la lista, realizar una solicitud de información sobre el perro
+- Agregar un indicador de carga
 - https://www.npmjs.com/package/react-spinners
-- Вынести информацию о собаке в компонент Dog
-- Добавить «скелет» вместо индикатора (DogSkeleton)
+- Mover información sobre el perro al componente Dog
+- Agregue un "esqueleto" en lugar de un indicador (DogSkeleton)
 - https://skeletonreact.com
-- Добавить обработку ошибок
+- Agregar manejo de errores
 - https://react-hot-toast.com
